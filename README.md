@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @DimitriosIrodotou, a postdoctoral researcher at the University of Helsinki working on galaxy formation simulations and black hole models.
